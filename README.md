@@ -1,3 +1,10 @@
+# **__THIS PROJECT/PACKAGE HAS BEEN DEPRECATED__**
+**This project has been depricated in favor of:**
+- [**libsql-stateless** (github)](https://github.com/DaBigBlob/libsql-stateless)
+- [**libsql-stateless** (npmjs)](https://www.npmjs.com/package/libsql-stateless)
+
+**Please don't keep using this project/package.**
+
 # libsql-web-api-http-stateless-client
 
 > libSQL http driver for TypeScript and JavaScript running with Web API.
